@@ -1,0 +1,3 @@
+C:/Users/Patryk/Desktop/informatyka 2/C++/comivoager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Patryk/Desktop/informatyka 2/C++/comivoager/cmake-build-debug/CMakeFiles/comivoager.dir
+C:/Users/Patryk/Desktop/informatyka 2/C++/comivoager/cmake-build-debug/CMakeFiles/edit_cache.dir
